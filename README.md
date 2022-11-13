@@ -5,7 +5,7 @@ Sample getting started project of eBPF tracing basics
 ## Prerequisites
 
 * Golang 1.19+
-* bcc
+* BCC tool (installation guide: [link](https://github.com/iovisor/bcc/blob/master/INSTALL.md))
 
 ## Running
 
